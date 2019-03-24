@@ -7,4 +7,6 @@ File untuk menjalankan simulasi terdiri dari 2 file:
 
 File lain merupakan file input yang diperlukan untuk menjalankan simulasi.
 
-Untuk manual teknis yang lebih detail, silahkan <a href="https://www.researchgate.net/publication/318511561_ANUGA_User_Manual_Release_20">dibaca di sini</a>.
+Untuk manual teknis ANUGA yang lebih detail, silahkan <a href="https://www.researchgate.net/publication/318511561_ANUGA_User_Manual_Release_20">dibaca di sini</a>.
+
+Untuk manual dan kode EasyWave silahkan <a href="https://gitext.gfz-potsdam.de/geoperil/easyWave">dicek di sini</a>.
